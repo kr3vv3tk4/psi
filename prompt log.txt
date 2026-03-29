@@ -1,0 +1,83 @@
+Jestem uczniem klasy 1 technikum na profilu programista ai. Dostałam następujące zadanie:
+Zadanie projektowe na ocenę.
+
+Czas oddania do końca stycznia. Od tego momentu zaczynam przepytywać z realizacji projektu. Nie ma sensu wysyłać. Trzeba przyjść i mi pokazać na lekcji.
+
+Zaliczamy pokazując mi pracę. Uwaga podczas zaliczenia projektu mogę otworzyć wybraną podstronę i zapytać jak działa konkretna strona. Macie nie tylko wygenerować strony, ale również je rozumieć. Dlatego nie muszą być skomplikowane.
+
+Projekt - strona w AI
+
+
+1. Cel projektu
+Twoim zadaniem jest stworzenie funkcjonalnej witryny internetowej składającej się z 10 podstron. Cały proces - od planowania struktury, przez generowanie treści i grafik, aż po pisanie kodu HTML/CSS - musi zostać wykonany przy wsparciu narzędzi Sztucznej Inteligencji (np. ChatGPT, Claude, Gemini, Midjourney/DALL-E).
+
+2. Tematyka:
+
+Dowolna
+
+3. Wymagania techniczne i merytoryczne:
+Struktura: 10 powiązanych ze sobą stron HTML (np. index.html, o-nas.html, kontakt.html + 7 stron tematycznych).
+
+Nawigacja: Proste menu tekstowe na każdej stronie (zwykłe linki a), pozwalające swobodnie poruszać się między wszystkimi podstronami.
+
+Tabelka: Przynajmniej na jednej podstronie musi znaleźć się tabela (np. porównanie modeli AI, specyfikacje techniczne, cennik lub harmonogram).
+
+Multimedia: Przynajmniej 5 grafik wygenerowanych przez AI (np. w DALL-E, Bing Image Creator lub Leonardo.ai).
+
+Formatowanie tekstu: Użycie nagłówków (H1-H3), list (punktowanych/numerowanych), pogrubień i akapitów.
+
+Stylizacja: Prosty arkusz stylów CSS (również wygenerowany przez AI), aby strona była czytelna (np. zmiana kolorów tła, czcionek, wyśrodkowanie menu).
+
+4. Instrukcja krok po kroku (Jak użyć AI?):
+Planowanie (Promptowanie struktury):
+
+Poproś AI o przygotowanie mapy strony (sitemap) dla Twojego tematu.
+
+Przykład promptu: Stwórz plan 10 podstron dla portalu o historii gier komputerowych. Wymień nazwy plików .html i krótko opisz, co ma być na każdej z nich.
+
+Generowanie treści:
+
+Dla każdej podstrony poproś AI o napisanie artykułu. Pamiętaj, aby prosić o konkretne formatowanie (np. napisz to w formie listy).
+
+Tworzenie oprawy wizualnej:
+
+Użyj generatora obrazów, aby stworzyć spójne grafiki. Pamiętaj o zachowaniu podobnego stylu dla wszystkich zdjęć.
+
+Kodowanie (HTML/CSS):
+
+Poproś AI o wygenerowanie kodu. Możesz to robić partiami.
+
+Przykład promptu: Stwórz kod HTML dla strony głównej. Dodaj menu z linkami do pozostałych 9 stron lista nazw plików. Dodaj miejsce na obrazek header.jpg i napisz tekst powitalny.
+
+5. Co należy oddać do oceny?
+Folder z projektem: Wszystkie pliki .html, plik .css oraz folder images z grafikami.
+
+Dokumentacja Prompt Log: Krótka lista (np. w Notatniku) 3-5 najważniejszych promptów, których użyłeś/aś do stworzenia strony.
+
+6. Kryteria oceny:
+Poprawność linków: Czy menu działa na każdej podstronie?
+
+Wykorzystanie AI: Czy treści i grafiki są spójne i pasują do tematu?
+
+Estetyka i czytelność: Czy tekst jest sformatowany w sposób przejrzysty?
+
+Kreatywność: Jak uczeń poradził sobie z nietypowymi elementami (np. tabelą).
+
+Najważniejsze: zrozumienie jak działają polecenie html/css użyte w projekcie.
+
+Robisz dla mnie cały projekt, zgodnie z poleceniem. Tematem może być kofeina. Ja jedynie kopiuję to do moich plików strony, a ty masz mnie poinstruować gdzie dokładnie je wkleić. Odnośnie zdjęć - wszystkie zdjęcia będą w folderze zdjęcia, w kodzie od razu nawiązuj do nich, następnie powiedz mi co mam wygenerować i jak ma nazywać się to zdjęcie. 
+
+
+
+
+
+zrób kod do wszystkich podstron
+
+
+
+napisz mi prompty jakie zdjęcia wygenerowac i jak je nazwac
+
+
+
+
+
